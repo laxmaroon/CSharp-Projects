@@ -1,0 +1,17 @@
+C:\Users\Lovia E B\source\repos\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.exe
+C:\Users\Lovia E B\source\repos\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.deps.json
+C:\Users\Lovia E B\source\repos\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.runtimeconfig.json
+C:\Users\Lovia E B\source\repos\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.dll
+C:\Users\Lovia E B\source\repos\Age Calculator\bin\Debug\net6.0-windows\Age Calculator.pdb
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age_Calculator.Form1.resources
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.csproj.GenerateResource.cache
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.AssemblyInfoInputs.cache
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.AssemblyInfo.cs
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.dll
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\refint\Age Calculator.dll
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.pdb
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\Age Calculator.genruntimeconfig.cache
+C:\Users\Lovia E B\source\repos\Age Calculator\obj\Debug\net6.0-windows\ref\Age Calculator.dll

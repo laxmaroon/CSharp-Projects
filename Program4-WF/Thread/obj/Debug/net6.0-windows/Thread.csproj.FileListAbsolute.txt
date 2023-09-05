@@ -1,0 +1,17 @@
+C:\Users\Lovia E B\source\repos\Thread\bin\Debug\net6.0-windows\Thread.exe
+C:\Users\Lovia E B\source\repos\Thread\bin\Debug\net6.0-windows\Thread.deps.json
+C:\Users\Lovia E B\source\repos\Thread\bin\Debug\net6.0-windows\Thread.runtimeconfig.json
+C:\Users\Lovia E B\source\repos\Thread\bin\Debug\net6.0-windows\Thread.dll
+C:\Users\Lovia E B\source\repos\Thread\bin\Debug\net6.0-windows\Thread.pdb
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.Form1.resources
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.csproj.GenerateResource.cache
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.AssemblyInfoInputs.cache
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.AssemblyInfo.cs
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.dll
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\refint\Thread.dll
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.pdb
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\Thread.genruntimeconfig.cache
+C:\Users\Lovia E B\source\repos\Thread\obj\Debug\net6.0-windows\ref\Thread.dll

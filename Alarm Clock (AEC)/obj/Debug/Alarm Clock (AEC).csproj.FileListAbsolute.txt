@@ -1,0 +1,11 @@
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\bin\Debug\Alarm Clock (AEC).exe.config
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\bin\Debug\Alarm Clock (AEC).exe
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\bin\Debug\Alarm Clock (AEC).pdb
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\obj\Debug\Alarm Clock (AEC).csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\obj\Debug\Alarm Clock (AEC).csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\obj\Debug\Alarm_Clock__AEC_.Form1.resources
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\obj\Debug\Alarm_Clock__AEC_.Properties.Resources.resources
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\obj\Debug\Alarm Clock (AEC).csproj.GenerateResource.cache
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\obj\Debug\Alarm Clock (AEC).csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\obj\Debug\Alarm Clock (AEC).exe
+C:\Users\Lovia E B\source\repos\Alarm Clock (AEC)\obj\Debug\Alarm Clock (AEC).pdb

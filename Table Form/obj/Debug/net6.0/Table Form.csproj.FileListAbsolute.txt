@@ -1,0 +1,15 @@
+C:\Users\Lovia E B\source\repos\Table Form\bin\Debug\net6.0\Table Form.exe
+C:\Users\Lovia E B\source\repos\Table Form\bin\Debug\net6.0\Table Form.deps.json
+C:\Users\Lovia E B\source\repos\Table Form\bin\Debug\net6.0\Table Form.runtimeconfig.json
+C:\Users\Lovia E B\source\repos\Table Form\bin\Debug\net6.0\Table Form.dll
+C:\Users\Lovia E B\source\repos\Table Form\bin\Debug\net6.0\Table Form.pdb
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\Table Form.csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\Table Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\Table Form.AssemblyInfoInputs.cache
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\Table Form.AssemblyInfo.cs
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\Table Form.csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\Table Form.dll
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\refint\Table Form.dll
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\Table Form.pdb
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\Table Form.genruntimeconfig.cache
+C:\Users\Lovia E B\source\repos\Table Form\obj\Debug\net6.0\ref\Table Form.dll

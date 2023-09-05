@@ -1,0 +1,17 @@
+C:\Users\Lovia E B\source\repos\Practice2\bin\Debug\net6.0-windows\Practice2.exe
+C:\Users\Lovia E B\source\repos\Practice2\bin\Debug\net6.0-windows\Practice2.deps.json
+C:\Users\Lovia E B\source\repos\Practice2\bin\Debug\net6.0-windows\Practice2.runtimeconfig.json
+C:\Users\Lovia E B\source\repos\Practice2\bin\Debug\net6.0-windows\Practice2.dll
+C:\Users\Lovia E B\source\repos\Practice2\bin\Debug\net6.0-windows\Practice2.pdb
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.Form1.resources
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.csproj.GenerateResource.cache
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.AssemblyInfoInputs.cache
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.AssemblyInfo.cs
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.dll
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\refint\Practice2.dll
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.pdb
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\Practice2.genruntimeconfig.cache
+C:\Users\Lovia E B\source\repos\Practice2\obj\Debug\net6.0-windows\ref\Practice2.dll

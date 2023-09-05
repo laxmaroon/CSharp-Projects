@@ -1,0 +1,17 @@
+C:\Users\Lovia E B\source\repos\ExceptionHandling\bin\Debug\net6.0-windows\ExceptionHandling.exe
+C:\Users\Lovia E B\source\repos\ExceptionHandling\bin\Debug\net6.0-windows\ExceptionHandling.deps.json
+C:\Users\Lovia E B\source\repos\ExceptionHandling\bin\Debug\net6.0-windows\ExceptionHandling.runtimeconfig.json
+C:\Users\Lovia E B\source\repos\ExceptionHandling\bin\Debug\net6.0-windows\ExceptionHandling.dll
+C:\Users\Lovia E B\source\repos\ExceptionHandling\bin\Debug\net6.0-windows\ExceptionHandling.pdb
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.Form1.resources
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.csproj.GenerateResource.cache
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.dll
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\refint\ExceptionHandling.dll
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.pdb
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ExceptionHandling.genruntimeconfig.cache
+C:\Users\Lovia E B\source\repos\ExceptionHandling\obj\Debug\net6.0-windows\ref\ExceptionHandling.dll

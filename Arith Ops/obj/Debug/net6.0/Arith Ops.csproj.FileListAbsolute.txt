@@ -1,0 +1,15 @@
+C:\Users\Lovia E B\source\repos\Arith Ops\bin\Debug\net6.0\Arith Ops.exe
+C:\Users\Lovia E B\source\repos\Arith Ops\bin\Debug\net6.0\Arith Ops.deps.json
+C:\Users\Lovia E B\source\repos\Arith Ops\bin\Debug\net6.0\Arith Ops.runtimeconfig.json
+C:\Users\Lovia E B\source\repos\Arith Ops\bin\Debug\net6.0\Arith Ops.dll
+C:\Users\Lovia E B\source\repos\Arith Ops\bin\Debug\net6.0\Arith Ops.pdb
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\Arith Ops.csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\Arith Ops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\Arith Ops.AssemblyInfoInputs.cache
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\Arith Ops.AssemblyInfo.cs
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\Arith Ops.csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\Arith Ops.dll
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\refint\Arith Ops.dll
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\Arith Ops.pdb
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\Arith Ops.genruntimeconfig.cache
+C:\Users\Lovia E B\source\repos\Arith Ops\obj\Debug\net6.0\ref\Arith Ops.dll

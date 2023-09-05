@@ -1,0 +1,15 @@
+C:\Users\Lovia E B\source\repos\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+C:\Users\Lovia E B\source\repos\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+C:\Users\Lovia E B\source\repos\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+C:\Users\Lovia E B\source\repos\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+C:\Users\Lovia E B\source\repos\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+C:\Users\Lovia E B\source\repos\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll

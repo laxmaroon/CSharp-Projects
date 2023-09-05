@@ -1,0 +1,15 @@
+C:\Users\Lovia E B\source\repos\Conditional\bin\Debug\net6.0\Conditional.exe
+C:\Users\Lovia E B\source\repos\Conditional\bin\Debug\net6.0\Conditional.deps.json
+C:\Users\Lovia E B\source\repos\Conditional\bin\Debug\net6.0\Conditional.runtimeconfig.json
+C:\Users\Lovia E B\source\repos\Conditional\bin\Debug\net6.0\Conditional.dll
+C:\Users\Lovia E B\source\repos\Conditional\bin\Debug\net6.0\Conditional.pdb
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\Conditional.csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\Conditional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\Conditional.AssemblyInfoInputs.cache
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\Conditional.AssemblyInfo.cs
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\Conditional.csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\Conditional.dll
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\refint\Conditional.dll
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\Conditional.pdb
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\Conditional.genruntimeconfig.cache
+C:\Users\Lovia E B\source\repos\Conditional\obj\Debug\net6.0\ref\Conditional.dll

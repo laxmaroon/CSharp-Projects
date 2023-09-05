@@ -1,0 +1,11 @@
+C:\Users\Lovia E B\source\repos\SliderApp1\obj\Debug\SliderApp1.csproj.AssemblyReference.cache
+C:\Users\Lovia E B\source\repos\SliderApp1\obj\Debug\SliderApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovia E B\source\repos\SliderApp1\obj\Debug\SliderApp1.Form1.resources
+C:\Users\Lovia E B\source\repos\SliderApp1\obj\Debug\SliderApp1.Properties.Resources.resources
+C:\Users\Lovia E B\source\repos\SliderApp1\obj\Debug\SliderApp1.csproj.GenerateResource.cache
+C:\Users\Lovia E B\source\repos\SliderApp1\obj\Debug\SliderApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lovia E B\source\repos\SliderApp1\bin\Debug\SliderApp1.exe.config
+C:\Users\Lovia E B\source\repos\SliderApp1\bin\Debug\SliderApp1.exe
+C:\Users\Lovia E B\source\repos\SliderApp1\bin\Debug\SliderApp1.pdb
+C:\Users\Lovia E B\source\repos\SliderApp1\obj\Debug\SliderApp1.exe
+C:\Users\Lovia E B\source\repos\SliderApp1\obj\Debug\SliderApp1.pdb
